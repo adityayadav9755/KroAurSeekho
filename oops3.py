@@ -1,5 +1,5 @@
 # ------------CLASS METHOD-----------
-# jb hume method me instance ki jgh class pas krni to class method bnate hain jisme self ki jgh cls argument jaata hai
+# jb hume method me instance ki jgh class pass krni to class method bnate hain jisme self ki jgh cls argument jaata hai
 class Student:
     marks = 40
 
